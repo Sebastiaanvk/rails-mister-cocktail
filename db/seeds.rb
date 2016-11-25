@@ -6,10 +6,16 @@
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
 
+Ingredient.destroy_all
 
-Ingredient.create(name: "lemon")
-Ingredient.create(name: "ice")
-Ingredient.create(name: "mint leaves")
-Ingredient.create(name: "shit")
-Ingredient.create(name: "piss")
-Ingredient.create(name: "gypsy tears")
+Ingredient.create(name: "Hair")
+Ingredient.create(name: "Tits")
+Ingredient.create(name: "Waist")
+Ingredient.create(name: "Ass")
+Ingredient.create(name: "Legs")
+Ingredient.create(name: "Skin")
+Ingredient.create(name: "Personality")
+Ingredient.create(name: "Sense of humor")
+
+
+
